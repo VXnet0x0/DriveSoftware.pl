@@ -1,0 +1,8 @@
+{
+  "name": "DriveSoft 2024 - DLS 1.0 Ecosystem",
+  "description": "Zaawansowana platforma deweloperska DriveSoft z systemem logowania DLS, chmurą i asystentem AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
